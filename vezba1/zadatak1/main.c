@@ -2,8 +2,8 @@
 
 int main()
 {
-	int a = 5;
-	int b = 4;
+	int a = 3;
+	int b = 8;
 
 	if (a > b){
 		c = a-b;
