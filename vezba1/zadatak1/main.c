@@ -2,6 +2,8 @@
 
 void PrintResult(int res){
 	printf("Result: %d\n", c);
+	
+	// Izmena 1
 }
 
 int Calculation(int a, int b)
@@ -10,6 +12,8 @@ int Calculation(int a, int b)
 		return a - b;
 	else
 		return b - a;
+	
+	// Izmena 2
 }
 
 int main()
